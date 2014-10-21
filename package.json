@@ -1,7 +1,7 @@
 {
   "name": "pkg-open",
-  "version": "1.0.0",
-  "description": "Open npm package's github repository from cli. Inspired by [`npm-repo`][npmrepo] and Sindre's [`opn`][sindreopn].",
+  "version": "0.0.0",
+  "description": "Open npm package's github repository from cli. Inspired by `npm-repo` and `opn`.",
   "main": "lib/index.js",
   "bin": {
     "pkg-open": "bin/cli.js"
@@ -20,7 +20,7 @@
     "repo utils",
     "utils",
     "opn",
-    "sindre"
+    "sindre",
     "open",
     "npm",
     "repository",
