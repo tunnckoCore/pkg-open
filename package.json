@@ -1,0 +1,40 @@
+{
+  "name": "pkg-open",
+  "version": "1.0.0",
+  "description": "Open npm package's github repository from cli. Inspired by [`npm-repo`][npmrepo] and Sindre's [`opn`][sindreopn].",
+  "main": "lib/index.js",
+  "bin": {
+    "pkg-open": "bin/cli.js"
+  },
+  "author": {
+    "name": "Charlike Make Reagent",
+    "email": "mameto_100@mail.bg",
+    "url": "https://github.com/tunnckoCore",
+    "twitter": "https://twitter.com/tunnckoCore"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tunnckoCore/pkg-open.git"
+  },
+  "keywords": [
+    "repo utils",
+    "utils",
+    "opn",
+    "sindre"
+    "open",
+    "npm",
+    "repository",
+    "page",
+    "package",
+    "cli tools",
+    "cli"
+  ],
+  "dependencies": {
+    "npm": "*",
+    "opn": "*"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/tunnckoCore/pkg-open/blob/master/license.md"
+  }],
+}
