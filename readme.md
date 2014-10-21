@@ -1,5 +1,5 @@
 # pkg-open [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url]
-> Open npm package's github repository from cli. Inspired by [`npm-repo`][npmrepo] and Sindre's [`opn`][sindreopn].
+> Open npm package's github repository from cli. Inspired by [`npm-repo`][npmrepo] and Sindre's [`opn`][sindreopn]
 
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
