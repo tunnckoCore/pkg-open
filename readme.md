@@ -1,4 +1,4 @@
-# pkg-open [![NPM version][npmjs-shields]][npmjs-url] [![Dependency Status][depstat-img]][depstat-url]
+# pkg-open [![NPM version][npmjs-shields]][npmjs-url] [![Build Status][travis-img]][travis-url] [![Dependency Status][depstat-img]][depstat-url]
 > Open npm package's github repository from cli. Inspired by [`npm-repo`][npmrepo] and Sindre's [`opn`][sindreopn].
 
 
