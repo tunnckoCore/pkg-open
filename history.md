@@ -1,8 +1,3 @@
-## v1.0.1 / November 04, 2014
-- remove `npm` from deps
-- add/edit some files
-- normalizing package look & feel, styles
-
 ## v1.0.0 / November 04, 2014
 - initial release
 

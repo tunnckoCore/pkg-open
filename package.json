@@ -2,7 +2,7 @@
   "name": "pkg-open",
   "version": "1.0.0",
   "description": "Open npm package's github repository from cli. Inspired by `npm-repo` and `opn`.",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "lint": "npm install && jshint ./**/*.js",
     "test": "npm run lint"
