@@ -1,10 +1,13 @@
+## v1.0.2 / November 04, 2014
+- fix `history.md` date
+
 ## v1.0.1 / November 04, 2014
 - remove `npm` from deps
 - add/edit some files
 - normalize package look & feel, styles
 - move lib/index.js to root
 
-## v1.0.0 / November 04, 2014
+## v1.0.0 / October 21, 2014
 - initial release
 
 

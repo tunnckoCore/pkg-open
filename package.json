@@ -1,6 +1,6 @@
 {
   "name": "pkg-open",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Open npm package's github repository from cli. Inspired by `npm-repo` and `opn`.",
   "main": "index.js",
   "scripts": {
